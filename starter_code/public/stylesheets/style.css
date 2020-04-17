@@ -58,6 +58,10 @@ a {
   width: 180px; }
 
 .part-2 {
+  text-align: center;
+  height: 4em; }
+
+.part-3 {
   text-align: center; }
 
 .decription-container {

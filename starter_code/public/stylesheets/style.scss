@@ -74,20 +74,25 @@ a {
 }
 
 .part-2 {
-  text-align: center;
+	text-align: center;
+	height: 4em;
+}
+
+.part-3 {
+	text-align: center;
 }
 
 // THIRD PAGE
 .decription-container {
-  display: flex;
+	display: flex;
 }
 
 .part-right {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-  margin-left: 20px;
-  width: 60%;
+	margin-left: 20px;
+	width: 60%;
 }
 
 .list {
